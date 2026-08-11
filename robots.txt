@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://llmxtfai.github.io/resources-gi04xk/sitemap.xml
